@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        A&T
+    </title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+
+</head>
+
+
+<body>
+    <div class="flexbox">
+        <form action="{{url_for('predict')}}" method="post">
+            <h1>House Price Prediction</h1>
+            <div class="input-box">
+                <input type="text" name="BHK" placeholder="Bedrooms" required="required" /><br>
+            </div>
+            <div class="input-box">
+                <input type="text" name="Size" placeholder="Size" required="required" /><br>
+            </div>
+            <div class="dropdown">
+                <label for="Area Locality">
+                    <select name="Area Locality" class="Area_Locality">
+                        <option value="" class="Select Area">Select Area</option>
+                        <option value="12">New Market</option>
+                        <option value="5">GEC</option>
+                        <option value="7">Halishahar</option>
+                        <option value="11">Muradpur</option>
+                        <option value="0">2 no Gate</option>
+                        <option value="6">Golpahar</option>
+                        <option value="13">Oxygen</option>
+                        <option value="2">Bohoddarhat</option>
+                        <option value="15">Pahartoli</option>
+                        <option value="4">Dewanhat</option>
+                        <option value="1">Agrabad</option>
+                        <option value="3">Chawkbazar</option>
+                        <option value="14">Pachlaish</option>
+                        <option value="9">Khulshi</option>
+                        <option value="8">JamalKhan</option>
+                        <option value="10">Kotowali</option>
+                    </select>
+                </label>
+            </div>
+            <div class="input-box">
+                <input type="text" name="Bathrooms" placeholder="Bathrooms" required="required" /><br>
+            </div>
+            <div class="input-box">
+                <input type="text" name="Rental Floor" placeholder="Rental Floor" required="required" /><br>
+            </div>
+
+            <button type="submit" class="btn">Predict</button><br>
+        </form>
+    </div>
+    <footer>
+        <p>Created by Arif & Tasin</p>
+    </footer>
+    
+</body>
+
+</html>

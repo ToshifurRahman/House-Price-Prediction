@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A&T</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles2.css') }}">
+</head>
+
+<body>
+    <div class="flexbox">
+        <div class="anime">
+            <h1>A&T</h1>
+        </div>
+        <div class="txt">
+            <h2>Unsure of rental costs?  A&T predicts your ideal rent based on bedrooms, baths & size!</h2>
+        </div>
+        <form action="{{url_for('home')}}" method="post">
+            <button type="submit" class="btn">Start Here</button>
+        </form>
+    </div>
+    <footer>
+        <p>Created by Arif & Tasin</p>
+    </footer>
+</body>
+</html>
+
+

@@ -1,0 +1,800 @@
+Posted On,BHK,Rent,Size,Floor,Area Type,Area Locality,City,Furnishing Status,Tenant Preferred,Bathroom,Point of Contact
+0,1,7000,600,Ground out of 5,Local,New Market,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,2,9500,650,1 out of 6,Local,New Market,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,3,10000,700,1 out of 7,Local,New Market,Chittagong,Unfurnished,Bachelors,2,Contact Owner
+0,1,7500,750,1 out of 8,Local,New Market,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8000,800,1 out of 9,Local,New Market,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,11000,850,1 out of 10,Local,New Market,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,4,15000,900,2 out of 6,Local,New Market,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,8000,950,2 out of 7,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,11000,1000,2 out of 8,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,12000,1050,2 out of 9,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,8500,1100,2 out of 10,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,12000,1150,3 out of 6,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,14000,1200,4 out of 7,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,15000,1250,5 out of 8,Local,New Market,Chittagong,Unfurnished,Family,3,Contact Owner
+0,3,15000,1300,1 out of 6,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,15000,1350,2 out of 6,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,18000,1400,3 out of 6,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,20000,1450,4 out of 6,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,8000,600,5 out of 6,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9000,650,6 out of 6,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,12000,700,2 out of 10,Local,New Market,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,7500,750,3 out of 10,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8000,800,4 out of 10,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,11000,850,5 out of 10,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,13000,900,6 out of 10,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8000,950,7 out of 10,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9000,1000,8 out of 10,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,12000,1050,9 out of 10,Local,New Market,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,8500,1100,10 out of 10,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,12000,1150,1 out of 11,Local,New Market,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,3,14000,1200,2 out of 11,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,14500,1250,3 out of 11,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,16000,1300,4 out of 11,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,18000,1350,5 out of 11,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,20000,1400,6 out of 11,Local,New Market,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,18000,1450,7 out of 11,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,7000,600,8 out of 11,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9000,650,9 out of 11,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,10000,700,10 out of 11,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,7500,750,11 out of 11,Local,New Market,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,3,8000,800,1 out of 12,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,11000,850,2 out of 12,Local,New Market,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,13000,900,3 out of 12,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8000,950,4 out of 12,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9000,1000,5 out of 12,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,12000,1050,6 out of 12,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8500,1100,7 out of 12,Local,New Market,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,13000,1150,8 out of 12,Local,New Market,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,15000,1200,9 out of 12,Local,New Market,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,14500,1250,Ground out of 5,Local,GEC,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,2,15000,1300,1 out of 6,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,16000,1350,1 out of 7,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,18000,1400,1 out of 8,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,19000,1450,1 out of 9,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7000,600,1 out of 10,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,12000,650,2 out of 6,Local,GEC,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,11000,700,2 out of 7,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,12000,750,2 out of 8,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,13000,800,2 out of 9,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,13000,850,2 out of 10,Local,GEC,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14000,900,3 out of 6,Local,GEC,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,15000,950,4 out of 7,Local,GEC,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,4,17000,1000,5 out of 8,Local,GEC,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,16000,1050,1 out of 6,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,16500,1100,2 out of 6,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,18000,1150,3 out of 6,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,17000,1200,4 out of 6,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,18000,1250,5 out of 6,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,18000,1300,6 out of 6,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,20000,1350,2 out of 10,Local,GEC,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,17000,1400,3 out of 10,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,18000,1450,4 out of 10,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7000,600,5 out of 10,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,9000,650,6 out of 10,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,11500,700,7 out of 10,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7500,750,8 out of 10,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,10000,800,9 out of 10,Local,GEC,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,11000,850,10 out of 10,Local,GEC,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,13000,900,1 out of 11,Local,GEC,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,10000,950,2 out of 11,Local,GEC,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,1,12000,1000,3 out of 11,Local,GEC,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14000,1050,4 out of 11,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,16000,1100,5 out of 11,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,18000,1150,6 out of 11,Local,GEC,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,17000,1200,7 out of 11,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,18000,1250,8 out of 11,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,20000,1300,9 out of 11,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,16000,1350,10 out of 11,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,18000,1400,11 out of 11,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,20000,1450,1 out of 12,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,7000,600,2 out of 12,Local,GEC,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,9000,650,3 out of 12,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,10000,700,4 out of 12,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7500,750,5 out of 12,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,800,6 out of 12,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,11000,850,7 out of 12,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,13000,900,8 out of 12,Local,GEC,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,8000,950,9 out of 12,Local,GEC,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,9000,1000,10 out of 12,Local,GEC,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,6000,600,Ground out of 5,Local,Halishahar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,7000,650,1 out of 6,Local,Halishahar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,5500,700,1 out of 7,Local,Halishahar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8000,750,1 out of 8,Local,Halishahar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,8500,800,1 out of 9,Local,Halishahar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,4,10000,850,1 out of 10,Local,Halishahar,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,1,5000,900,2 out of 6,Local,Halishahar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8500,950,2 out of 7,Local,Halishahar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,9000,1000,2 out of 8,Local,Halishahar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,1,8000,1050,2 out of 9,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8500,1100,2 out of 10,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,12000,1150,3 out of 6,Local,Halishahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,16000,1200,4 out of 7,Local,Halishahar,Chittagong,Unfurnished,Family,3,Contact Owner
+0,3,16000,1250,5 out of 8,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,18000,1300,1 out of 6,Local,Halishahar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,18500,1350,2 out of 6,Local,Halishahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,20000,1400,3 out of 6,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,18000,1450,4 out of 6,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7000,600,5 out of 6,Local,Halishahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,9000,650,6 out of 6,Local,Halishahar,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,8000,700,2 out of 10,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,7500,750,3 out of 10,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,800,4 out of 10,Local,Halishahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,9000,850,5 out of 10,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,13000,900,6 out of 10,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9500,950,7 out of 10,Local,Halishahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,11000,1000,8 out of 10,Local,Halishahar,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,10000,1050,9 out of 10,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8500,1100,10 out of 10,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,12000,1150,1 out of 11,Local,Halishahar,Chittagong,Unfurnished,Bachelors,2,Contact Owner
+0,1,8000,1200,2 out of 11,Local,Halishahar,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,2,14500,1250,3 out of 11,Local,Halishahar,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,3,15000,1300,4 out of 11,Local,Halishahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,13000,1350,5 out of 11,Local,Halishahar,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,8000,750,6 out of 11,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,18000,1450,7 out of 11,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,6000,600,8 out of 11,Local,Halishahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,7000,650,9 out of 11,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,10000,700,10 out of 11,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7500,750,11 out of 11,Local,Halishahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,10000,800,1 out of 12,Local,Halishahar,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,7000,850,2 out of 12,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,13000,900,3 out of 12,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,950,4 out of 12,Local,Halishahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,4500,500,5 out of 12,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,12000,1050,6 out of 12,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,13000,1100,7 out of 12,Local,Halishahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,12000,1150,8 out of 12,Local,Halishahar,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,7000,1200,9 out of 12,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,14500,1250,10 out of 12,Local,Halishahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,15000,1300,Ground out of 5,Local,Muradpur,Chittagong,Unfurnished,Bachelors,2,Contact Owner
+0,3,20000,1350,1 out of 6,Local,Muradpur,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,16000,1400,1 out of 7,Local,Muradpur,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,18000,1450,1 out of 8,Local,Muradpur,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,7000,600,1 out of 9,Local,Muradpur,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,1,9000,650,1 out of 10,Local,Muradpur,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,10000,700,2 out of 6,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,750,2 out of 7,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,800,2 out of 8,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,11000,850,2 out of 9,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,13000,900,2 out of 10,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,10000,950,3 out of 6,Local,Muradpur,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,9000,1000,4 out of 7,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,12000,1050,5 out of 8,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8500,1100,1 out of 6,Local,Muradpur,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,6000,700,2 out of 6,Local,Muradpur,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14000,1200,3 out of 6,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,14500,1250,4 out of 6,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,15000,1300,5 out of 6,Local,Muradpur,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,5000,450,6 out of 6,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,16000,1400,2 out of 10,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,18000,1450,3 out of 10,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,7000,600,4 out of 10,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,9000,650,5 out of 10,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,10000,700,6 out of 10,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,7500,750,7 out of 10,Local,Muradpur,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,8000,800,8 out of 10,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,11000,850,9 out of 10,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,13000,900,10 out of 10,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,950,1 out of 11,Local,Muradpur,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,9000,1000,2 out of 11,Local,Muradpur,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,12000,1050,3 out of 11,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,8500,1100,4 out of 11,Local,Muradpur,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,6000,1150,5 out of 11,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,14000,1200,6 out of 11,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,14500,1250,7 out of 11,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,6500,800,8 out of 11,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,13000,1350,9 out of 11,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,16000,1400,10 out of 11,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,18000,1450,11 out of 11,Local,Muradpur,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,7000,600,1 out of 12,Local,Muradpur,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,9000,650,2 out of 12,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,10000,700,3 out of 12,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,7500,750,4 out of 12,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8000,800,5 out of 12,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,11000,850,6 out of 12,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,13000,900,7 out of 12,Local,Muradpur,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,8000,950,8 out of 12,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,9000,1000,9 out of 12,Local,Muradpur,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,12000,1050,10 out of 12,Local,Muradpur,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,7000,600,Ground out of 5,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,9000,650,1 out of 6,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,11500,700,1 out of 7,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,1,7500,750,1 out of 8,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,2,8000,800,1 out of 9,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,11000,850,1 out of 10,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,13000,900,2 out of 6,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,1,8000,950,2 out of 7,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,10000,1000,2 out of 8,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,12000,1050,2 out of 9,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,13000,1100,2 out of 10,Local,2 no Gate,Chittagong,Unfurnished,Bachelors,3,Contact Owner
+0,2,15500,1150,3 out of 6,Local,2 no Gate,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,3,14000,1200,4 out of 7,Local,2 no Gate,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,4,14500,1250,5 out of 8,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,15000,1300,1 out of 6,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,13000,1350,2 out of 6,Local,2 no Gate,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,20500,1400,3 out of 6,Local,2 no Gate,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,22000,1450,4 out of 6,Local,2 no Gate,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,7000,600,5 out of 6,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9000,650,6 out of 6,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,11500,700,2 out of 10,Local,2 no Gate,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,7500,750,3 out of 10,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8000,800,4 out of 10,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,11000,850,5 out of 10,Local,2 no Gate,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,13000,900,6 out of 10,Local,2 no Gate,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,8000,950,7 out of 10,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9500,1000,8 out of 10,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,12000,1050,9 out of 10,Local,2 no Gate,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8500,1100,10 out of 10,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,12000,1150,1 out of 11,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,14000,1200,2 out of 11,Local,2 no Gate,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,14500,1250,3 out of 11,Local,2 no Gate,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,24000,1300,4 out of 11,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,23500,1350,5 out of 11,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,27000,1400,6 out of 11,Local,2 no Gate,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,25000,1450,7 out of 11,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,7000,600,8 out of 11,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9000,650,9 out of 11,Local,2 no Gate,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,11500,700,10 out of 11,Local,2 no Gate,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,7500,750,11 out of 11,Local,2 no Gate,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,3,8000,800,1 out of 12,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,11000,850,2 out of 12,Local,2 no Gate,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,11000,900,3 out of 12,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8000,950,4 out of 12,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9500,1000,5 out of 12,Local,2 no Gate,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,12000,1050,6 out of 12,Local,2 no Gate,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,8500,1100,7 out of 12,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,12000,1150,8 out of 12,Local,2 no Gate,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,14000,1200,9 out of 12,Local,2 no Gate,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,14500,1250,10 out of 12,Local,2 no Gate,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,2,15000,1300,Ground out of 5,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,30000,1350,1 out of 6,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,33000,1400,1 out of 7,Local,Golpahar,Chittagong,Unfurnished,Family,3,Contact Owner
+0,5,35000,1450,1 out of 8,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,13000,900,1 out of 9,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,12000,1000,1 out of 10,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,11500,700,2 out of 6,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8500,750,2 out of 7,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,15000,800,2 out of 8,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,6000,600,2 out of 9,Local,Golpahar,Chittagong,Unfurnished,Bachelors,3,Contact Owner
+0,2,13000,900,2 out of 10,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,950,3 out of 6,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,9000,1000,4 out of 7,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,12000,1050,5 out of 8,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,17000,1100,1 out of 6,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,23500,1150,2 out of 6,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,26500,1200,3 out of 6,Local,Golpahar,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,14500,1250,4 out of 6,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,15000,1300,5 out of 6,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,25000,1350,6 out of 6,Local,Golpahar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,4,27000,1400,2 out of 10,Local,Golpahar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,5,29000,1450,3 out of 10,Local,Golpahar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,7000,600,4 out of 10,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,9000,650,5 out of 10,Local,Golpahar,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,11500,700,6 out of 10,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7500,750,7 out of 10,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,8000,800,8 out of 10,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,11000,850,9 out of 10,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,13000,900,10 out of 10,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,950,1 out of 11,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,9000,1000,2 out of 11,Local,Golpahar,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,12000,1050,3 out of 11,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8500,1100,4 out of 11,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,30000,1150,5 out of 11,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,25000,1200,6 out of 11,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,23000,1250,7 out of 11,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,28000,1300,8 out of 11,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,28500,1350,9 out of 11,Local,Golpahar,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,3,16000,1400,10 out of 11,Local,Golpahar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,29500,1450,11 out of 11,Local,Golpahar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,7000,600,1 out of 12,Local,Golpahar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,1,9000,650,2 out of 12,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,10000,700,3 out of 12,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7500,750,4 out of 12,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,800,5 out of 12,Local,Golpahar,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,11000,850,6 out of 12,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,13000,900,7 out of 12,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,8000,950,8 out of 12,Local,Golpahar,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,9000,1000,9 out of 12,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8000,950,10 out of 12,Local,Golpahar,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9000,1000,Ground out of 5,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,5000,600,1 out of 6,Local,Oxygen,Chittagong,Unfurnished,Family,3,Contact Owner
+0,3,7500,650,1 out of 7,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,5500,700,1 out of 8,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8000,750,1 out of 9,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,8000,800,1 out of 10,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,5000,850,2 out of 6,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,5000,900,2 out of 7,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,8000,950,2 out of 8,Local,Oxygen,Chittagong,Unfurnished,Family,3,Contact Owner
+0,3,9500,1000,2 out of 9,Local,Oxygen,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,8000,1050,2 out of 10,Local,Oxygen,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8500,1100,3 out of 6,Local,Oxygen,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,12000,1150,4 out of 7,Local,Oxygen,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,14000,1200,5 out of 8,Local,Oxygen,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,8000,1250,1 out of 6,Local,Oxygen,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,15000,1300,2 out of 6,Local,Oxygen,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,3,13000,1350,3 out of 6,Local,Oxygen,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,8000,1400,4 out of 6,Local,Oxygen,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,18000,1450,5 out of 6,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,7000,600,6 out of 6,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,9500,650,2 out of 10,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,700,3 out of 10,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,7500,750,4 out of 10,Local,Oxygen,Chittagong,Unfurnished,Family,3,Contact Owner
+0,3,8000,800,5 out of 10,Local,Oxygen,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,8000,850,6 out of 10,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,13000,900,7 out of 10,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,8000,950,8 out of 10,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,9500,1000,9 out of 10,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,1050,10 out of 10,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,8500,1100,1 out of 11,Local,Oxygen,Chittagong,Unfurnished,Family,3,Contact Owner
+0,3,12000,1150,2 out of 11,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,1200,3 out of 11,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,14500,1250,4 out of 11,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,15000,1300,5 out of 11,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,13000,1350,6 out of 11,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,750,7 out of 11,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,18000,1450,8 out of 11,Local,Oxygen,Chittagong,Unfurnished,Family,3,Contact Owner
+0,3,7000,600,9 out of 11,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,7000,650,10 out of 11,Local,Oxygen,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,2,10000,700,11 out of 11,Local,Oxygen,Chittagong,Unfurnished,Bachelors,2,Contact Owner
+0,3,7500,750,1 out of 12,Local,Oxygen,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,4,10000,800,2 out of 12,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,7000,850,3 out of 12,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,13000,900,4 out of 12,Local,Oxygen,Chittagong,Unfurnished,Family,3,Contact Owner
+0,3,8000,950,5 out of 12,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,9500,1000,6 out of 12,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,12000,1050,7 out of 12,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,8500,1100,8 out of 12,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,12000,1150,9 out of 12,Local,Oxygen,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,7000,1200,10 out of 12,Local,Oxygen,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,14500,1250,Ground out of 5,Local,Bohoddarhat,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,5000,600,1 out of 6,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7500,650,1 out of 7,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,5500,700,1 out of 8,Local,Bohoddarhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,8000,750,1 out of 9,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,800,1 out of 10,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,5000,850,2 out of 6,Local,Bohoddarhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,5000,900,2 out of 7,Local,Bohoddarhat,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,8000,950,2 out of 8,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9500,1000,2 out of 9,Local,Bohoddarhat,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,1,8000,1050,2 out of 10,Local,Bohoddarhat,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,8500,1100,3 out of 6,Local,Bohoddarhat,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,12000,1150,4 out of 7,Local,Bohoddarhat,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,14000,1200,5 out of 8,Local,Bohoddarhat,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,1,8000,1250,1 out of 6,Local,Bohoddarhat,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,2,15000,1300,2 out of 6,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,13000,1350,3 out of 6,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,1400,4 out of 6,Local,Bohoddarhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,18000,1450,5 out of 6,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7000,600,6 out of 6,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,9500,650,2 out of 10,Local,Bohoddarhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,700,3 out of 10,Local,Bohoddarhat,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,7500,750,4 out of 10,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,800,5 out of 10,Local,Bohoddarhat,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,8000,850,6 out of 10,Local,Bohoddarhat,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,13000,900,7 out of 10,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,950,8 out of 10,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,9500,1000,9 out of 10,Local,Bohoddarhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,1050,10 out of 10,Local,Bohoddarhat,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,8500,1100,1 out of 11,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,12000,1150,2 out of 11,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,1200,3 out of 11,Local,Bohoddarhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,14500,1250,4 out of 11,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,15000,1300,5 out of 11,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,13000,1350,6 out of 11,Local,Bohoddarhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,750,7 out of 11,Local,Bohoddarhat,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,18000,1450,8 out of 11,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7000,600,9 out of 11,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,7000,650,10 out of 11,Local,Bohoddarhat,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,11500,700,11 out of 11,Local,Bohoddarhat,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,7500,750,1 out of 12,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,10000,800,2 out of 12,Local,Bohoddarhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,7000,850,3 out of 12,Local,Bohoddarhat,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,13000,900,4 out of 12,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,950,5 out of 12,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,9500,1000,6 out of 12,Local,Bohoddarhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,12000,1050,7 out of 12,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8500,1100,8 out of 12,Local,Bohoddarhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,12000,1150,9 out of 12,Local,Bohoddarhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,7000,1200,10 out of 12,Local,Bohoddarhat,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,2,14500,1250,Ground out of 5,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7500,650,1 out of 6,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,5500,700,1 out of 7,Local,Pahartoli,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,8000,750,1 out of 8,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,800,1 out of 9,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,5000,850,1 out of 10,Local,Pahartoli,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,5000,900,2 out of 6,Local,Pahartoli,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,8000,950,2 out of 7,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9500,1000,2 out of 8,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,1050,2 out of 9,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,8500,1100,2 out of 10,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,12000,1150,3 out of 6,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,14000,1200,4 out of 7,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,1,8000,1250,5 out of 8,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,2,15000,1300,1 out of 6,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,13000,1350,2 out of 6,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,8000,1400,3 out of 6,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,18000,1450,4 out of 6,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,7000,600,5 out of 6,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,9500,650,6 out of 6,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,1,8000,700,2 out of 10,Local,Pahartoli,Chittagong,Unfurnished,Bachelors,3,Contact Owner
+0,2,7500,750,3 out of 10,Local,Pahartoli,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,3,8000,800,4 out of 10,Local,Pahartoli,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,1,8000,850,5 out of 10,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,13000,900,6 out of 10,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,8000,950,7 out of 10,Local,Pahartoli,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,9500,1000,8 out of 10,Local,Pahartoli,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,1050,9 out of 10,Local,Pahartoli,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,8500,1100,10 out of 10,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,12000,1150,1 out of 11,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,1200,2 out of 11,Local,Pahartoli,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,14500,1250,3 out of 11,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,15000,1300,4 out of 11,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,13000,1350,5 out of 11,Local,Pahartoli,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,750,6 out of 11,Local,Pahartoli,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,18000,1450,7 out of 11,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7000,600,8 out of 11,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,7000,650,9 out of 11,Local,Pahartoli,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,11500,700,10 out of 11,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7500,750,11 out of 11,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,10000,800,1 out of 12,Local,Pahartoli,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,7000,850,2 out of 12,Local,Pahartoli,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,13000,900,3 out of 12,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,950,4 out of 12,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,9500,1000,5 out of 12,Local,Pahartoli,Chittagong,Unfurnished,Family,2,Contact Owner
+0,2,12000,1050,6 out of 12,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8500,1100,7 out of 12,Local,Pahartoli,Chittagong,Unfurnished,Family,1,Contact Owner
+0,4,12000,1150,8 out of 12,Local,Pahartoli,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,7000,1200,9 out of 12,Local,Pahartoli,Chittagong,Unfurnished,Family,3,Contact Owner
+0,2,14500,1250,10 out of 12,Local,Pahartoli,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,2,14500,1250,Ground out of 5,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7500,650,1 out of 6,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,5500,700,1 out of 7,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8000,750,1 out of 8,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,800,1 out of 9,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,5000,850,1 out of 10,Local,Dewanhat,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,5000,900,2 out of 6,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8000,950,2 out of 7,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,9500,1000,2 out of 8,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,1050,2 out of 9,Local,Dewanhat,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,2,8500,1100,2 out of 10,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,12000,1150,3 out of 6,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,14000,1200,4 out of 7,Local,Dewanhat,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,8000,1250,5 out of 8,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,15000,1300,1 out of 6,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,13000,1350,2 out of 6,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,1400,3 out of 6,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,18000,1450,4 out of 6,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7000,600,5 out of 6,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,9500,650,6 out of 6,Local,Dewanhat,Chittagong,Unfurnished,Bachelors,3,Contact Owner
+0,1,8000,700,2 out of 10,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,7500,750,3 out of 10,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,800,4 out of 10,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,8000,850,5 out of 10,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,13000,900,6 out of 10,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,950,7 out of 10,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,9500,1000,8 out of 10,Local,Dewanhat,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,8000,1050,9 out of 10,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8500,1100,10 out of 10,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,12000,1150,1 out of 11,Local,Dewanhat,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,1,8000,1200,2 out of 11,Local,Dewanhat,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14500,1250,3 out of 11,Local,Dewanhat,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,15000,1300,4 out of 11,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,13000,1350,5 out of 11,Local,Dewanhat,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,8000,750,6 out of 11,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,18000,1450,7 out of 11,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7000,600,8 out of 11,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,7000,650,9 out of 11,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,11500,700,10 out of 11,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,7500,750,11 out of 11,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,10000,800,1 out of 12,Local,Dewanhat,Chittagong,Unfurnished,Family,3,Contact Owner
+0,1,7000,850,2 out of 12,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,13000,900,3 out of 12,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8000,950,4 out of 12,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,1,9500,1000,5 out of 12,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,12000,1050,6 out of 12,Local,Dewanhat,Chittagong,Unfurnished,Family,1,Contact Owner
+0,3,8500,1100,7 out of 12,Local,Dewanhat,Chittagong,Unfurnished,Family,2,Contact Owner
+0,4,12000,1150,8 out of 12,Local,Dewanhat,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,1,7000,1200,9 out of 12,Local,Dewanhat,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14500,1250,10 out of 12,Local,Dewanhat,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8500,1100,Ground out of 5,Local,Agrabad,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,12000,1150,1 out of 6,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,1200,1 out of 7,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,14500,1250,1 out of 8,Local,Agrabad,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,15000,1300,1 out of 9,Local,Agrabad,Chittagong,Unfurnished,Family,3,Contact Owner
+0,4,13000,1350,1 out of 10,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,750,2 out of 6,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,18000,1450,2 out of 7,Local,Agrabad,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,7000,600,2 out of 8,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,7000,650,2 out of 9,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,11500,700,2 out of 10,Local,Agrabad,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,12000,750,3 out of 6,Local,Agrabad,Chittagong,Unfurnished,Family,3,Contact Owner
+0,4,10000,800,4 out of 7,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,7000,850,5 out of 8,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,13000,900,1 out of 6,Local,Agrabad,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,14000,950,2 out of 6,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,11000,1000,3 out of 6,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,12000,1050,4 out of 6,Local,Agrabad,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,14000,1100,5 out of 6,Local,Agrabad,Chittagong,Unfurnished,Family,3,Contact Owner
+0,4,15000,1150,6 out of 6,Local,Agrabad,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,12000,1200,2 out of 10,Local,Agrabad,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,15000,1250,3 out of 10,Local,Agrabad,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,7500,650,4 out of 10,Local,Agrabad,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,5500,700,5 out of 10,Local,Agrabad,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8000,750,6 out of 10,Local,Agrabad,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,8000,800,7 out of 10,Local,Agrabad,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,5000,850,8 out of 10,Local,Agrabad,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,5000,600,9 out of 10,Local,Agrabad,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8000,950,10 out of 10,Local,Agrabad,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,12000,1000,1 out of 11,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,9500,1050,2 out of 11,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,14000,1100,3 out of 11,Local,Agrabad,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,15000,1150,4 out of 11,Local,Agrabad,Chittagong,Unfurnished,Family,3,Contact Owner
+0,4,16000,1200,5 out of 11,Local,Agrabad,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,12000,1250,6 out of 11,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,16500,1300,7 out of 11,Local,Agrabad,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,18000,1350,8 out of 11,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,13000,1400,9 out of 11,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,18000,1450,10 out of 11,Local,Agrabad,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,7000,600,11 out of 11,Local,Agrabad,Chittagong,Unfurnished,Family,3,Contact Owner
+0,4,9500,650,1 out of 12,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,700,2 out of 12,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,8500,1100,3 out of 12,Local,Agrabad,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,12000,1150,4 out of 12,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,1200,5 out of 12,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,2,14500,1250,6 out of 12,Local,Agrabad,Chittagong,Unfurnished,Family,2,Contact Owner
+0,3,16000,1300,7 out of 12,Local,Agrabad,Chittagong,Unfurnished,Family,3,Contact Owner
+0,4,18000,1350,8 out of 12,Local,Agrabad,Chittagong,Unfurnished,Family,1,Contact Owner
+0,1,8000,750,9 out of 12,Local,Agrabad,Chittagong,Unfurnished,Bachelors,1,Contact Owner
+0,2,18000,1450,10 out of 12,Local,Agrabad,Chittagong,Unfurnished,Bachelors,2,Contact Owner
+0,3,7000,600,Ground out of 5,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,7000,650,1 out of 6,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8000,700,1 out of 7,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,7500,750,1 out of 8,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,10000,800,1 out of 9,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,9000,850,1 out of 10,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,13000,900,2 out of 6,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,8000,950,2 out of 7,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,9500,1000,2 out of 8,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,12000,1050,2 out of 9,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,11000,1100,2 out of 10,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,14000,1150,3 out of 6,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,7000,1200,4 out of 7,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14500,1250,5 out of 8,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,7500,650,1 out of 6,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,5500,700,2 out of 6,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8000,750,3 out of 6,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,8000,800,4 out of 6,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,5000,850,5 out of 6,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,5000,900,6 out of 6,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8000,950,2 out of 10,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,9500,1000,3 out of 10,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,9500,1050,4 out of 10,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,10000,1100,5 out of 10,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,12000,1150,6 out of 10,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,15000,1200,7 out of 10,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,13000,1250,8 out of 10,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,15000,1300,9 out of 10,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,15500,1350,10 out of 10,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,10000,1400,1 out of 11,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,18000,1450,2 out of 11,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,7000,600,3 out of 11,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,9500,650,4 out of 11,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,8000,700,5 out of 11,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8500,1100,6 out of 11,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,12000,1150,7 out of 11,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,8000,1200,8 out of 11,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14500,1250,9 out of 11,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,15000,1300,10 out of 11,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,17000,1350,11 out of 11,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,8000,750,1 out of 12,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,18000,1450,2 out of 12,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,7000,600,3 out of 12,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,7000,650,4 out of 12,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,11500,700,5 out of 12,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,7500,750,6 out of 12,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,10000,800,7 out of 12,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,7000,600,8 out of 12,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,13000,900,9 out of 12,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,8000,950,10 out of 12,Local,Chawkbazar,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,9000,600,Ground out of 5,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,9500,650,1 out of 6,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,10000,700,1 out of 7,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,10500,750,1 out of 8,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,13000,800,1 out of 9,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,15000,850,1 out of 10,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,13000,900,2 out of 6,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,16000,950,2 out of 7,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,17000,1000,2 out of 8,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,16500,1050,2 out of 9,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,18000,1100,2 out of 10,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,14000,1150,3 out of 6,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,7000,1200,4 out of 7,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14500,1250,5 out of 8,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,7500,650,1 out of 6,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,5500,700,2 out of 6,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8000,750,3 out of 6,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,8000,800,4 out of 6,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,5000,850,5 out of 6,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,5000,900,6 out of 6,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8000,950,2 out of 10,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,9500,1000,3 out of 10,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,9500,1050,4 out of 10,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,10000,1100,5 out of 10,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,12000,1150,6 out of 10,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,15000,1200,7 out of 10,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,13000,1250,8 out of 10,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,19000,1300,9 out of 10,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,15500,1350,10 out of 10,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,25000,1400,1 out of 11,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,18000,1450,2 out of 11,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,10000,700,3 out of 11,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,9500,650,4 out of 11,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,8000,700,5 out of 11,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,19000,1100,6 out of 11,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,18000,1150,7 out of 11,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,17800,1200,8 out of 11,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,16500,1250,9 out of 11,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,15000,1300,10 out of 11,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,17000,1350,11 out of 11,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,4,Contact Owner
+0,5,56000,2500,1 out of 12,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,53000,2600,2 out of 12,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,4,Contact Owner
+0,5,47000,2700,3 out of 12,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,59000,2800,4 out of 12,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,4,Contact Owner
+0,4,58000,2900,5 out of 12,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,4,Contact Owner
+0,4,60000,3000,6 out of 12,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,3,35000,1600,7 out of 12,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,3,38500,1700,8 out of 12,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,43000,1800,9 out of 12,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,4,Contact Owner
+0,4,39000,1900,10 out of 12,Local,Pachlaish,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,3,15000,600,Ground out of 5,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,15500,650,1 out of 6,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,16000,700,1 out of 7,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,16500,750,1 out of 8,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,17500,800,1 out of 9,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,18000,850,1 out of 10,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,18500,900,2 out of 6,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,19500,950,2 out of 7,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,19000,1000,2 out of 8,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,20000,1050,2 out of 9,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,22000,1100,2 out of 10,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,23000,1150,3 out of 6,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,24000,1200,4 out of 7,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,25000,1250,5 out of 8,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,16000,650,1 out of 6,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,17000,700,2 out of 6,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,17500,750,3 out of 6,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,19000,800,4 out of 6,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,20000,850,5 out of 6,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,19500,900,6 out of 6,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,22000,950,2 out of 10,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,24000,1000,3 out of 10,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,24500,1050,4 out of 10,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,25000,1100,5 out of 10,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,26000,1150,6 out of 10,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,27000,1200,7 out of 10,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,27500,1250,8 out of 10,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,28000,1300,9 out of 10,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,30000,1350,10 out of 10,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,32000,1400,1 out of 11,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,32500,1450,2 out of 11,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,16000,600,3 out of 11,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,18000,650,4 out of 11,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,17000,700,5 out of 11,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,22000,1100,6 out of 11,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,24000,1150,7 out of 11,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,25000,1200,8 out of 11,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,25500,1250,9 out of 11,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,28000,1300,10 out of 11,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,30000,1350,11 out of 11,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,17000,750,1 out of 12,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,30000,1450,2 out of 12,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,16000,600,3 out of 12,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,16500,650,4 out of 12,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,17500,700,5 out of 12,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,19000,750,6 out of 12,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,21000,800,7 out of 12,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,15000,600,8 out of 12,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,26000,900,9 out of 12,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,28000,950,10 out of 12,Local,Khulshi,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,13000,600,Ground out of 5,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,13500,650,1 out of 6,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14000,700,1 out of 7,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,14500,750,1 out of 8,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,16000,800,1 out of 9,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,16000,850,1 out of 10,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,16500,900,2 out of 6,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,17500,950,2 out of 7,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,18500,1000,2 out of 8,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,19000,1050,2 out of 9,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,20000,1100,2 out of 10,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,22000,1150,3 out of 6,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,24000,1200,4 out of 7,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,25000,1250,5 out of 8,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,1,14000,650,1 out of 6,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,15000,700,2 out of 6,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,16000,750,3 out of 6,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,17000,800,4 out of 6,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,18500,850,5 out of 6,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,18000,900,6 out of 6,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,19000,950,2 out of 10,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,21000,1000,3 out of 10,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,21500,1050,4 out of 10,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,22500,1100,5 out of 10,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,24000,1150,6 out of 10,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,26000,1200,7 out of 10,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,26500,1250,8 out of 10,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,27500,1300,9 out of 10,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,28500,1350,10 out of 10,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,4,30000,1400,1 out of 11,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,30050,1450,2 out of 11,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,15000,600,3 out of 11,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,16000,650,4 out of 11,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,16500,700,5 out of 11,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,22000,1100,6 out of 11,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,24500,1150,7 out of 11,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,24500,1200,8 out of 11,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,25000,1250,9 out of 11,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,26000,1300,10 out of 11,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,28000,1350,11 out of 11,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,15000,750,1 out of 12,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,28500,1450,2 out of 12,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,30000,1500,3 out of 12,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,32000,1600,4 out of 12,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,2,11500,1700,5 out of 12,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,33000,1800,6 out of 12,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,35000,1900,7 out of 12,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,4,42500,2000,8 out of 12,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,3,43000,2100,9 out of 12,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,4,45000,2200,10 out of 12,Local,Jamal Khan,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,3,8000,600,Ground out of 5,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,9000,650,1 out of 6,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8000,700,1 out of 7,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,7500,750,1 out of 8,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,10000,800,1 out of 9,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,9000,850,1 out of 10,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,13000,900,2 out of 6,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,9500,950,2 out of 7,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,9500,1000,2 out of 8,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,12000,1050,2 out of 9,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,11000,1100,2 out of 10,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,14000,1150,3 out of 6,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,11000,1200,4 out of 7,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14500,1250,5 out of 8,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,7500,650,1 out of 6,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,5500,700,2 out of 6,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,8000,750,3 out of 6,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,9000,800,4 out of 6,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,10400,850,5 out of 6,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,1,10500,900,6 out of 6,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,11000,950,2 out of 10,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,10000,1000,3 out of 10,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,11700,1050,4 out of 10,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,11000,1100,5 out of 10,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,12500,1150,6 out of 10,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,13000,1200,7 out of 10,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14000,1250,8 out of 10,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,13000,1300,9 out of 10,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,15500,1350,10 out of 10,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,1,9000,1400,1 out of 11,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,14000,1450,2 out of 11,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,9000,600,3 out of 11,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,8400,650,4 out of 11,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,10000,700,5 out of 11,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,12000,1100,6 out of 11,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,11000,1150,7 out of 11,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,3,10500,1200,8 out of 11,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,11000,1250,9 out of 11,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,15000,1300,10 out of 11,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,18000,1350,11 out of 11,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,9000,750,1 out of 12,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,19500,1450,2 out of 12,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,20500,1500,3 out of 12,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,18000,1650,4 out of 12,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,1,Contact Owner
+0,2,19500,1780,5 out of 12,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,18000,1940,6 out of 12,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
+0,4,24000,2060,7 out of 12,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,27000,2100,8 out of 12,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,2,23000,2500,9 out of 12,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,2,Contact Owner
+0,3,25000,3000,10 out of 12,Local,Kotwali,Chittagong,Unfurnished,Bachelors/Family,3,Contact Owner
